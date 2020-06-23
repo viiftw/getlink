@@ -15,3 +15,5 @@ Example: Get link video [Mark Zuckerberg's keynote at Oculus Connect](https://ww
 ```bash
 getlink -url=https://www.facebook.com/zuck/videos/10104098492370231/
 ```
+
+![Demo](getlink_demo.PNG)
